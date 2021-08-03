@@ -1,0 +1,25 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shadowspedicey/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shadowspedicey/testing-practice/issues"
+  },
+  "homepage": "https://github.com/Shadowspedicey/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
